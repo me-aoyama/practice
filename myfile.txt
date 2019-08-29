@@ -1,5 +1,4 @@
 test file is created by mediaedge
-
 add is for register the indec which is changed
-
 commit recorde status of index.
+pull obtain the content of remote repository.
